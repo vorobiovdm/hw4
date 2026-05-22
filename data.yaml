@@ -1,0 +1,9 @@
+path: C:/Users/Дмитрий/Desktop/hw/4/details_dataset
+
+train: images/train
+val: images/val
+
+names:
+  0: detail1
+  1: detail2
+  2: detail3
